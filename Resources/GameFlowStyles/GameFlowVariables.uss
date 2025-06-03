@@ -1,0 +1,30 @@
+﻿:root {
+    --gf-colors-grid-light-grey-1: #2b2b2b;
+    --gf-colors-grid-light-grey-2: rgba(51, 51, 51, 0.4);
+    --gf-colors-grid-light-grey-3: rgba(51, 51, 51, 1);
+    --gf-colors-window-dark-grey-1: #1D1D1E;
+    --gf-colors-window-dark-grey-2: #2B2D2F;
+    --gf-colors-window-dark-grey-3: #212325;
+    --gf-colors-window-dark-grey-4: #232527;
+    --gf-colors-window-dark-grey-5: #252729;
+    --gf-colors-window-dark-grey-6: #27292C;
+    --gf-colors-window-yellow: #FDD057;
+
+    --gf-metrics-grid-25: 25;
+    --gf-metrics-window-pixels-n12: -12px;
+    --gf-metrics-window-pixels-n4: -4px;
+    --gf-metrics-window-pixels-0: 0px;
+    --gf-metrics-window-pixels-2: 2px;
+    --gf-metrics-window-pixels-4: 4px;
+    --gf-metrics-window-pixels-6: 6px;
+    --gf-metrics-window-pixels-8: 8px;
+    --gf-metrics-window-pixels-11: 11px;
+    --gf-metrics-window-pixels-16: 16px;
+    --gf-metrics-window-pixels-25: 25px;
+    --gf-metrics-window-pixels-35: 35px;
+    --gf-metrics-window-pixels-120: 120px;
+    --gf-metrics-window-pixels-160: 160px;
+    --gf-metrics-window-pixels-240: 240px;
+    --gf-metrics-window-pixels-600: 600px;
+    --gf-metrics-window-pixels-1000: 1000px;
+}

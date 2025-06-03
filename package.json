@@ -1,0 +1,8 @@
+{
+  "name": "com.dewittsmith.game-flow",
+  "version": "0.0.0",
+  "displayName": "Game Flow",
+  "dependencies": {
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+  }
+}
