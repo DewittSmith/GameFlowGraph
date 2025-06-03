@@ -5,7 +5,7 @@ To create a graph, go to `Window/Game Flow Graph`.
 
 To create a node, you need `FlowInput` and `FlowOutput`. It defines an entry and an exit for a node. Look at [IfNode](https://github.com/DewittSmith/com.dewittsmith.game-flow/blob/main/Runtime/Nodes/IfNode.cs) source code for example.
 
-It is possible to create generic nodes with dynamic port count. Use `[GenerateGenericSubclasses]` and `[AddInvokeOverride(nameof]` attributes to enable that. Look at [SwitchNode](https://github.com/DewittSmith/com.dewittsmith.game-flow/blob/main/Runtime/Nodes/SwitchNode.cs) source code for example.
+It is possible to create generic nodes with dynamic port count. Use `[GenerateGenericSubclasses]` and `[AddInvokeOverride]` attributes to enable that. Look at [SwitchNode](https://github.com/DewittSmith/com.dewittsmith.game-flow/blob/main/Runtime/Nodes/SwitchNode.cs) source code for example.
 
 Running a graph is done by calling `IGameFlow.RunGraph` and `GameFlowGraph` is considered `IGameFlow` as well.
 ```cs
