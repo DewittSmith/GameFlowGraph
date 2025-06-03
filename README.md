@@ -19,4 +19,4 @@ private void Start()
 ```
 
 
-Adding this package to project can be done by using PackageManager, just use `https://github.com/DewittSmith/com.dewittsmith.game-flow.git` git url.
+Adding this package to project can be done by using PackageManager, just use `https://github.com/DewittSmith/com.dewittsmith.game-flow.git?path=GameFlow` git url.
